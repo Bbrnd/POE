@@ -1,0 +1,57 @@
+{
+  "interns": [
+    {
+      "lastname": "Aubert",
+      "firstname": "Jean-Luc",
+      "id": "0481"
+    },
+    {
+      "lastname": "Bond",
+      "firstname": "James",
+      "id": "4002"
+    },
+    {
+      "id": "0d2a",
+      "lastname": "Bonisseur de la bath",
+      "firstname": "Hubert"
+    },
+    {
+      "id": "96de",
+      "lastname": "Lecter",
+      "firstname": "Hannibal"
+    },
+    {
+      "id": "2b45",
+      "lastname": "White",
+      "firstname": "Walter"
+    },
+    {
+      "id": "5894",
+      "lastname": "Riaux",
+      "firstname": "Damien"
+    },
+    {
+      "id": "b6bb",
+      "lastname": "Anon",
+      "firstname": "Billie"
+    }
+  ],
+
+  "poe": [
+
+    {
+      "title": "Developpeur Web Full Stack",
+      "duration": "140"
+    }, 
+
+    { 
+      "title": "Consultant en cybersécurité",
+      "duration": "300"
+    }, 
+
+    {
+      "title": "Administrateur Systèmes et reseaux",
+      "duration": "200"
+    }
+
+  ]}
